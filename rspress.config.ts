@@ -4,9 +4,6 @@ import { defineConfig } from 'rspress/config';
 
 import { LastUpdated } from '@theme';
 
-function App() {
-  return <LastUpdated />;
-}
 
 export default defineConfig({
   lang: 'zh',
