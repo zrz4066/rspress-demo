@@ -1,0 +1,30 @@
+[
+  {
+    "type": "dir",
+    "label": "基础知识",
+    "name": "base",
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "type": "dir",
+    "label": "框架",
+    "name": "framework",
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "type": "dir",
+    "label": "构建工具",
+    "name": "pack",
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "type": "dir",
+    "label": "进阶知识",
+    "name": "upgrade",
+    "collapsible": true,
+    "collapsed": true
+  }
+]

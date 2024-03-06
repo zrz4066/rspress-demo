@@ -1,0 +1,16 @@
+[
+  {
+    "type": "dir",
+    "label": "LF Reader",
+    "name": "LFReader",
+    "collapsible": true,
+    "collapsed": true
+  }
+    {
+    "type": "dir",
+    "label": "UHF Reader",
+    "name": "UHFReader",
+    "collapsible": true,
+    "collapsed": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "type": "dir",
+    "label": "React",
+    "name": "react",
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "type": "dir",
+    "label": "Vue",
+    "name": "vue",
+    "collapsible": true,
+    "collapsed": true
+  }
+]

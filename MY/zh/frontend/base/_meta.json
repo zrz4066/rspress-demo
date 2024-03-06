@@ -1,0 +1,38 @@
+[
+  {
+    "type": "file",
+    "label": "HTML",
+    "name": "html"
+  },
+  {
+    "type": "file",
+    "label": "CSS",
+    "name": "css"
+  },
+  {
+    "type": "file",
+    "label": "JavaScript",
+    "name": "Javascript"
+  },
+  {
+    "type": "file",
+    "label": "ECMAscript",
+    "name": "ECMAscript"
+  },
+  {
+    "type": "file",
+    "label": "SCSS",
+    "name": "scss"
+  },
+  {
+    "type": "file",
+    "label": "jQuery",
+    "name": "Jquery"
+  },
+  {
+    "type": "file",
+    "label": "mm",
+    "name": "mm"
+  }
+  
+]

@@ -1,0 +1,20 @@
+[
+
+  {
+    "type": "file",
+    "label": "HTML",
+    "name": "LF"
+  },
+  {
+    "type": "file",
+    "label": "mm",
+    "name": "mm"
+  },
+	{
+    "type": "dir",
+    "label": "React",
+    "name": "react",
+    "collapsible": true,
+    "collapsed": true
+  },
+]

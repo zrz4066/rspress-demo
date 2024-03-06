@@ -1,0 +1,17 @@
+[
+  {
+    "type": "file",
+    "name": "rollup",
+    "label": "rollup"
+  },
+  {
+    "type": "file",
+    "name": "vite",
+    "label": "vite"
+  },
+  {
+    "type": "file",
+    "name": "webpack",
+    "label": "webpack"
+  }
+]

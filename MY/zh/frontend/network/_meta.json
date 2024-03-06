@@ -1,0 +1,17 @@
+[
+  {
+    "type": "file",
+    "name": "http",
+    "label": "http"
+  },
+  {
+    "type": "file",
+    "name": "ajax",
+    "label": "ajax"
+  },
+  {
+    "type": "file",
+    "name": "axios",
+    "label": "axios"
+  }
+]

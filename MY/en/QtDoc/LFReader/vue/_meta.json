@@ -1,0 +1,27 @@
+[
+  {
+    "type": "file",
+    "name": "index",
+    "label": "基础"
+  },
+  {
+    "type": "file",
+    "name": "vue-router",
+    "label": "路由"
+  },
+  {
+    "type": "file",
+    "name": "vuex",
+    "label": "Vuex"
+  },
+  {
+    "type": "file",
+    "name": "pinia",
+    "label": "pinia"
+  },
+  {
+    "type": "file",
+    "name": "v2源码",
+    "label": "v2源码"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "type": "file",
+    "name": "index",
+    "label": "基础"
+  },
+  {
+    "type": "file",
+    "name": "react-router",
+    "label": "路由"
+  },
+  {
+    "type": "file",
+    "name": "redux",
+    "label": "状态管理"
+  }
+]

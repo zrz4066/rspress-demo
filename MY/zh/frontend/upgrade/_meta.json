@@ -1,0 +1,22 @@
+[
+  {
+    "type": "file",
+    "name": "git",
+    "label": "Git"
+  },
+  {
+    "type": "file",
+    "name": "typeScript",
+    "label": "typeScript"
+  },
+  {
+    "type": "file",
+    "name": "we-chat-mini-program",
+    "label": "微信小程序"
+  },
+  {
+    "type": "file",
+    "name": "uniapp",
+    "label": "uniapp"
+  }
+]
